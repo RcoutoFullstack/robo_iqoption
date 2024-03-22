@@ -5,7 +5,7 @@ from colorama import Fore, init
 
 init(autoreset=True,convert=True)
 
-api = IQ_Option('riltoncouto0@gmail.com','(Riltoncouto0)',('PRATICE'))
+api = IQ_Option('xxxxxxx0@gmail.com','(xxxxxxx)',('PRATICE'))
 api.connect()
 
 
